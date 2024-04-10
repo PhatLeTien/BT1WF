@@ -1,0 +1,11 @@
+E:\BAITAP VISUAL\BT1WF\BT2WF\bin\Debug\BT2WF.exe.config
+E:\BAITAP VISUAL\BT1WF\BT2WF\bin\Debug\BT2WF.exe
+E:\BAITAP VISUAL\BT1WF\BT2WF\bin\Debug\BT2WF.pdb
+E:\BAITAP VISUAL\BT1WF\BT2WF\obj\Debug\BT2WF.csproj.AssemblyReference.cache
+E:\BAITAP VISUAL\BT1WF\BT2WF\obj\Debug\BT2WF.csproj.SuggestedBindingRedirects.cache
+E:\BAITAP VISUAL\BT1WF\BT2WF\obj\Debug\BT2WF.Form1.resources
+E:\BAITAP VISUAL\BT1WF\BT2WF\obj\Debug\BT2WF.Properties.Resources.resources
+E:\BAITAP VISUAL\BT1WF\BT2WF\obj\Debug\BT2WF.csproj.GenerateResource.cache
+E:\BAITAP VISUAL\BT1WF\BT2WF\obj\Debug\BT2WF.csproj.CoreCompileInputs.cache
+E:\BAITAP VISUAL\BT1WF\BT2WF\obj\Debug\BT2WF.exe
+E:\BAITAP VISUAL\BT1WF\BT2WF\obj\Debug\BT2WF.pdb
